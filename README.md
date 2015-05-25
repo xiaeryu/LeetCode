@@ -34,3 +34,7 @@ A try for the LeetCode problems.
 #### Nth Highest Salary (Number 177) at _2015-05-25_
 * MySQL query statement to the [**Nth Highest Salary**](https://leetcode.com/problems/nth-highest-salary/ "Problem description")
 * Script named [**nthHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/nthHighestSalary.sql "script") in this repository
+
+#### Contains Duplicate (Number 217) at _2015-05-25_
+* Python solution with the use of dictionary [**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/ "Problem description")
+* Script named [**containsDuplicate.py**](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicate.py, "script") in this repository
