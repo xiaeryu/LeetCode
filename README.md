@@ -14,3 +14,7 @@ A try for the LeetCode problems.
 #### Valid Phone Numbers (Number 193) at _2015-05-25_
 * One-line solution to the [**Valid Phone Numbers**](https://leetcode.com/problems/valid-phone-numbers/ "Problem description")
 * Script named [**validPhoneNumbers.sh**](https://github.com/xiaeryu/LeetCode/blob/master/validPhoneNumbers.sh "script") in this directory
+
+#### Transpose File (Number 194) at _2015-05-25_
+* One-line solution to the [**Transpose File**](https://leetcode.com/problems/transpose-file/ "Problem description")
+* Script names [**transposeFile.sh**](https://github.com/xiaeryu/LeetCode/blob/master/transposeFile.sh "script") in this directory
