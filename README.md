@@ -22,3 +22,7 @@ A try for the LeetCode problems.
 #### Tenth Line (Number 195) at _2015-05-25_
 * Three one-line solutions to the [**Tenth Line**](https://leetcode.com/problems/tenth-line/ "Problem description")
 * Script named [**tenthLine.sh**](https://github.com/xiaeryu/LeetCode/blob/master/tenthLine.sh "script") in this repository
+
+#### Combine Two Tables (Number 175) at _2015-05-25_
+* MySQL query statement  to the [**Combine Two Table**](https://leetcode.com/problems/combine-two-tables/ "Problem description")
+* Script named [**combineTwoTables.sql**](https://github.com/xiaeryu/LeetCode/blob/master/combineTwoTables.sql "script") in this repository
