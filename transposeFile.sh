@@ -4,4 +4,4 @@
 ## https://leetcode.com/problems/transpose-file/
 #########################################################################
 
-awk '{printf $1 " "}' file.txt | sed 's/ $/\n/'; awk '{printf $2 " "}' file.txt | sed 's/ $/\n/'
+total=`head -1 file.txt | awk '{print NF}'`; for((i=1;i<=$total;i++)); do awk -v var=${i} '{printf $var " "}' file.txt | sed 's/ $//'; echo; done
