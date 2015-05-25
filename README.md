@@ -26,3 +26,7 @@ A try for the LeetCode problems.
 #### Combine Two Tables (Number 175) at _2015-05-25_
 * MySQL query statement  to the [**Combine Two Table**](https://leetcode.com/problems/combine-two-tables/ "Problem description")
 * Script named [**combineTwoTables.sql**](https://github.com/xiaeryu/LeetCode/blob/master/combineTwoTables.sql "script") in this repository
+
+#### Second Highest Salary (Number 176) at _2015-05-25_
+* MySQL query statement to the [**Second Highest Salary**](https://leetcode.com/problems/second-highest-salary/ "Problem description")
+* Script names [**secondHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/secondHighestSalary.sql "script") in this repository
