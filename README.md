@@ -5,11 +5,11 @@ A try for the LeetCode problems.
 
 #### Find Minimum in Rotated Sorted Array at _2015-05-23_
 * A devide-and-conquer solution for the minimum rotated sorted array problem
-* Script named [**rotatedSortedArray.py**](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py "script") in this repository
+* Script named [**Rotated_Sorted_Array.py**](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py "script") in this repository
 
 #### Word Frequency (Number 192) at _2015-05-25_
 * One-line solution to the [**Word Frequency problem**](https://leetcode.com/problems/word-frequency/ "Problem description")
-* Script named [**wordFrequency.sh**](https://github.com/xiaeryu/LeetCode/blob/master/wordFrequency.sh "script") in this repository
+* Script named [**Word_Frequency.sh**](https://github.com/xiaeryu/LeetCode/blob/master/wordFrequency.sh "script") in this repository
 
 #### Valid Phone Numbers (Number 193) at _2015-05-25_
 * One-line solution to the [**Valid Phone Numbers**](https://leetcode.com/problems/valid-phone-numbers/ "Problem description")
@@ -29,4 +29,8 @@ A try for the LeetCode problems.
 
 #### Second Highest Salary (Number 176) at _2015-05-25_
 * MySQL query statement to the [**Second Highest Salary**](https://leetcode.com/problems/second-highest-salary/ "Problem description")
-* Script names [**secondHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/secondHighestSalary.sql "script") in this repository
+* Script named [**secondHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/secondHighestSalary.sql "script") in this repository
+
+#### Nth Highest Salary (Number 177) at _2015-05-25_
+* MySQL query statement to the [**Nth Highest Salary**](https://leetcode.com/problems/nth-highest-salary/ "Problem description")
+* Script named [**nthHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/nthHighestSalary.sql "script") in this repository
