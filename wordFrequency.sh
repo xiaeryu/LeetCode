@@ -4,4 +4,4 @@
 ## The problem is elaborated here: https://leetcode.com/problems/word-frequency/
 ################################################################################
 
-sed 's/[[:space:]]\+/\n/g' words.txt | sort | uniq -c | sort -nrk1 | awk '{print $2 "\t" $1}'
+sed 's/[[:space:]]\+/\n/g' words.txt | sort | uniq -c | sort -nrk1 | awk '{print $2 " " $1}'
