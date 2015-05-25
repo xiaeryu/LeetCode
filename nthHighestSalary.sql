@@ -1,3 +1,9 @@
+#########################################################################
+## LeetCode Number 177 Nth Highest Salary
+## Problem description can be found here:
+## https://leetcode.com/problems/nth-highest-salary/
+## MySQL query statement
+#########################################################################
 
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
