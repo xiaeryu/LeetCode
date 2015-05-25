@@ -38,3 +38,7 @@ A try for the LeetCode problems.
 #### Contains Duplicate (Number 217) at _2015-05-25_
 * Python solution with the use of dictionary [**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/ "Problem description")
 * Script named [**containsDuplicate.py**](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicate.py, "script") in this repository
+
+#### Sort Colors (Number 75) at _2015-05-25_
+* Python solution with counting sort [**Sort Colors**](https://leetcode.com/problems/sort-colors/ "Problem description")
+* Script named [**sortColors.py**](https://github.com/xiaeryu/LeetCode/blob/master/sortColors.py "script")
