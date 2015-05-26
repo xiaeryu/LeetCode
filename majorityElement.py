@@ -1,3 +1,10 @@
+#########################################################################
+## LeetCode Number 169 Majority Element
+## Problem description can be found here:
+## https://leetcode.com/problems/majority-element/
+## Python script
+#########################################################################
+
 class Solution:
     # @param {integer[]} nums
     # @return {integer}
