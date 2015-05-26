@@ -1,3 +1,10 @@
+#########################################################################
+## LeetCode Number 88 Merge Sorted Array
+## Problem description can be found here:
+## https://leetcode.com/problems/merge-sorted-array/
+## Python script
+#########################################################################
+
 class Solution:
     # @param {integer[]} nums1
     # @param {integer} m
