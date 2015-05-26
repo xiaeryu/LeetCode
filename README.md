@@ -41,8 +41,12 @@ A try for the LeetCode problems.
 
 #### Sort Colors (Number 75) at _2015-05-25_
 * Python solution with counting sort [**Sort Colors**](https://leetcode.com/problems/sort-colors/ "Problem description")
-* Script named [**sortColors.py**](https://github.com/xiaeryu/LeetCode/blob/master/sortColors.py "script")
+* Script named [**sortColors.py**](https://github.com/xiaeryu/LeetCode/blob/master/sortColors.py "script") in this repository
  
 #### Merge Sorted Array (Number 88) at _2015-05-26_
 * Python solution [**Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/ "Problem description")
-* Script named [**mergeSortedArray.py**](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py "script")
+* Script named [**mergeSortedArray.py**](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py) in this repository
+
+#### Repeated DNA Sequences (Number 187) at _2015-05-26_
+* Python solution using dictionary [**Repeated DNA Sequences**](https://leetcode.com/problems/repeated-dna-sequences/ "Problem description")
+* Script named [**repeatedDNASequences.py**](https://github.com/xiaeryu/LeetCode/blob/master/repeatedDNASequences.py "script") in this repository
