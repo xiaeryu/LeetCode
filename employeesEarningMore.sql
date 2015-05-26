@@ -1,4 +1,9 @@
-
+#########################################################################
+## LeetCode Number 181 Employees Earning More Than Their Managers
+## Problem description can be found here:
+## https://leetcode.com/problems/employees-earning-more-than-their-managers/
+## MySQL query statement
+#########################################################################
 
 # Write your MySQL query statement below
 SELECT Emp1.Name AS Employee
