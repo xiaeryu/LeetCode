@@ -42,3 +42,7 @@ A try for the LeetCode problems.
 #### Sort Colors (Number 75) at _2015-05-25_
 * Python solution with counting sort [**Sort Colors**](https://leetcode.com/problems/sort-colors/ "Problem description")
 * Script named [**sortColors.py**](https://github.com/xiaeryu/LeetCode/blob/master/sortColors.py "script")
+ 
+#### Merge Sorted Array (Number 88) at _2015-05-26_
+* Python solution [**Merge Sorted Array**](https://leetcode.com/problems/merge-sorted-array/ "Problem description")
+* Script named [**mergeSortedArray.py**](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py "script")
