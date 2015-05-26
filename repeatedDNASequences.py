@@ -1,3 +1,10 @@
+#########################################################################
+## LeetCode Number 187 Repeated DNA Sequences
+## Problem description can be found here:
+## https://leetcode.com/problems/repeated-dna-sequences/
+## Python script
+#########################################################################
+
 class Solution:
     # @param {string} s
     # @return {string[]}
