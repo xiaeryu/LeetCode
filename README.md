@@ -56,5 +56,10 @@ A try for the LeetCode problems.
 * Script named [**majorityElement**](https://github.com/xiaeryu/LeetCode/blob/master/majorityElement.py "script") in this repository
 
 #### Employees Earning More Than Their Managers (Numer 181) at _2015-05-26_
-* MySQL query statement [**Employees Earning More Than Their Managers**](https://leetcode.com/problems/employees-earning-more-than-their-managers/ "Problem Description")
+* MySQL query statement [**Employees Earning More Than Their Managers**](https://leetcode.com/problems/employees-earning-more-than-their-managers/ "Problem description")
 * Script named [**employeesEarningMore.sql**](https://github.com/xiaeryu/LeetCode/blob/master/employeesEarningMore.sql "script") in this repository
+
+#### Duplicate Emails (Number 182) at _2015-05-26_
+* MySQL query statement [**Duplicate Emails**](https://leetcode.com/problems/duplicate-emails/ "Problem description")
+* Script named [**duplicateEmails.sql**](https://github.com/xiaeryu/LeetCode/blob/master/duplicateEmails.sql "script") in this repository
+
