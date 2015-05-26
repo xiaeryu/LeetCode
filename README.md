@@ -50,3 +50,7 @@ A try for the LeetCode problems.
 #### Repeated DNA Sequences (Number 187) at _2015-05-26_
 * Python solution using dictionary [**Repeated DNA Sequences**](https://leetcode.com/problems/repeated-dna-sequences/ "Problem description")
 * Script named [**repeatedDNASequences.py**](https://github.com/xiaeryu/LeetCode/blob/master/repeatedDNASequences.py "script") in this repository
+ 
+#### Majority Element (Number 169) at _2015-05-26_
+* Python solution using dictionary [**Majority Element**](https://leetcode.com/problems/majority-element/ "Problem description")
+* Script names [**majorityElement**](https://github.com/xiaeryu/LeetCode/blob/master/majorityElement.py "script") in this repository
