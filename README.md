@@ -53,4 +53,8 @@ A try for the LeetCode problems.
  
 #### Majority Element (Number 169) at _2015-05-26_
 * Python solution using dictionary [**Majority Element**](https://leetcode.com/problems/majority-element/ "Problem description")
-* Script names [**majorityElement**](https://github.com/xiaeryu/LeetCode/blob/master/majorityElement.py "script") in this repository
+* Script named [**majorityElement**](https://github.com/xiaeryu/LeetCode/blob/master/majorityElement.py "script") in this repository
+
+#### Employees Earning More Than Their Managers (Numer 181) at _2015-05-26_
+* MySQL query statement [**Employees Earning More Than Their Managers**](https://leetcode.com/problems/employees-earning-more-than-their-managers/ "Problem Description")
+* Script named [**employeesEarningMore.sql**](https://github.com/xiaeryu/LeetCode/blob/master/employeesEarningMore.sql "script") in this repository
