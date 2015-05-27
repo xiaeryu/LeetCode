@@ -1,4 +1,9 @@
-
+#########################################################################
+## LeetCode Number 151 Reverse Words in a String
+## Problem description can be found here:
+## https://leetcode.com/problems/reverse-words-in-a-string/
+## Python script
+#########################################################################
 
 import re
 
