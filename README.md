@@ -82,3 +82,7 @@ A try for the LeetCode problems.
 #### Maximum Subarray (Number 53) at _2015-05-27_
 * Python script for [**Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/ "Problem description")
 * Script named [**maximumSubarray.py**](https://github.com/xiaeryu/LeetCode/blob/master/maximumSubarray.py "script") in this repository
+
+#### Delete Duplicate Emails (Number 196) at _2015-05-27_
+* MySQL query statement for [**Delete Duplicate Emails**](https://leetcode.com/problems/delete-duplicate-emails/ "Problem description")
+* Script named [**deleteDuplicateEmails.sql**](https://github.com/xiaeryu/LeetCode/blob/master/deleteDuplicateEmails.sql "script") in this repository
