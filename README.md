@@ -65,5 +65,8 @@ A try for the LeetCode problems.
  
 #### Customers Who Never Order (Number 183) at _2015-05-26_
 * MySQL query statement [**Customers Who Never Order**](https://leetcode.com/problems/customers-who-never-order/ "Problem description")
-* Script names [**customersWhoNeverOrder.sql**](https://github.com/xiaeryu/LeetCode/blob/master/customersWhoNeverOrder.sql "script") in this repository
+* Script named [**customersWhoNeverOrder.sql**](https://github.com/xiaeryu/LeetCode/blob/master/customersWhoNeverOrder.sql "script") in this repository
 
+#### Reverse Words in a String (Number 151) at _2015-05-27_
+* Python script for [**Reverse Words in a String**](https://leetcode.com/problems/reverse-words-in-a-string/ "Problem description")
+* Script named [**reverseWordsinaString.py**](https://github.com/xiaeryu/LeetCode/blob/master/reverseWordsinaString.py "script") in this repository
