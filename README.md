@@ -78,3 +78,7 @@ A try for the LeetCode problems.
 #### Search Insert Position (Number 35) at _2015-05-27_
 * Python script for [**Search Insert Position**](https://leetcode.com/problems/search-insert-position/ "Problem description")
 * Script named [**searchInsertPosition.py**](https://github.com/xiaeryu/LeetCode/blob/master/searchInsertPosition.py "script") in this repository
+
+#### Maximum Subarray (Number 53) at _2015-05-27_
+* Python script for [**Maximum Subarray**](https://leetcode.com/problems/maximum-subarray/ "Problem description")
+* Script named [**maximumSubarray.py**](https://github.com/xiaeryu/LeetCode/blob/master/maximumSubarray.py "script") in this repository
