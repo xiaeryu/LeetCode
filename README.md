@@ -70,3 +70,7 @@ A try for the LeetCode problems.
 #### Reverse Words in a String (Number 151) at _2015-05-27_
 * Python script for [**Reverse Words in a String**](https://leetcode.com/problems/reverse-words-in-a-string/ "Problem description")
 * Script named [**reverseWordsinaString.py**](https://github.com/xiaeryu/LeetCode/blob/master/reverseWordsinaString.py "script") in this repository
+
+#### Climbing Stairs (Number 70) at _2015-05-27_
+* Python script for [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/ "Problem description")
+* Script named [**climbingStairs.py**](https://github.com/xiaeryu/LeetCode/blob/master/climbingStairs.py "script") in this repository
