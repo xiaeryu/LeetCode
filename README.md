@@ -98,3 +98,7 @@ A try for the LeetCode problems.
 #### Rank Scores (Number 178) at _2015-05-28_
 * MySQL query statement for [**Rank Scores**](https://leetcode.com/problems/rank-scores/ "Problem description")
 * Script named [**rankScores.sql**](https://github.com/xiaeryu/LeetCode/blob/master/rankScores.sql "script") in this repository
+
+#### Department Highest Salary (Number 184) at _2015-05-28_
+* MySQL query statement for [**Department Highest Salary**](https://leetcode.com/problems/department-highest-salary/ "Problem description")
+* Script named [**departmentHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/departmentHighestSalary.sql "script") in this repository
