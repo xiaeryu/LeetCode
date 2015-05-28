@@ -90,3 +90,7 @@ A try for the LeetCode problems.
 #### Rising Temperature [Number 197] at _2015-05-28_
 * MySQL query statement for [**Rising Temperature**](https://leetcode.com/problems/rising-temperature/ "Problem description")
 * Script named [**risingTemperature.sql**](https://github.com/xiaeryu/LeetCode/blob/master/risingTemperature.sql "script") in this repository
+
+#### Consecutive Numbers (Number 180) at _2015-05-28_
+* MySQL query statement for [**Consecutive Numbers**](https://leetcode.com/problems/consecutive-numbers/ "Problem description")
+* Script named [**consecutiveNumbers.sql**](https://github.com/xiaeryu/LeetCode/blob/master/consecutiveNumbers.sql "script") in this repository
