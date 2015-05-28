@@ -102,3 +102,7 @@ A try for the LeetCode problems.
 #### Department Highest Salary (Number 184) at _2015-05-28_
 * MySQL query statement for [**Department Highest Salary**](https://leetcode.com/problems/department-highest-salary/ "Problem description")
 * Script named [**departmentHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/departmentHighestSalary.sql "script") in this repository
+
+#### Department Top Three Salaries (Number 185) at _2015-05-28_
+* MySQL query statement for [**Department Top Three Salaries**](https://leetcode.com/problems/department-top-three-salaries/ "Problem description")
+* Script named [**departmentTopThreeSalaries.sql**](https://github.com/xiaeryu/LeetCode/blob/master/departmentTopThreeSalaries.sql "script") in this repository
