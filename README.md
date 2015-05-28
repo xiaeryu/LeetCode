@@ -94,3 +94,7 @@ A try for the LeetCode problems.
 #### Consecutive Numbers (Number 180) at _2015-05-28_
 * MySQL query statement for [**Consecutive Numbers**](https://leetcode.com/problems/consecutive-numbers/ "Problem description")
 * Script named [**consecutiveNumbers.sql**](https://github.com/xiaeryu/LeetCode/blob/master/consecutiveNumbers.sql "script") in this repository
+
+#### Rank Scores (Number 178) at _2015-05-28_
+* MySQL query statement for [**Rank Scores**](https://leetcode.com/problems/rank-scores/ "Problem description")
+* Script named [**rankScores.sql**](https://github.com/xiaeryu/LeetCode/blob/master/rankScores.sql "script") in this repository
