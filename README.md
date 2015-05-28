@@ -86,3 +86,7 @@ A try for the LeetCode problems.
 #### Delete Duplicate Emails (Number 196) at _2015-05-27_
 * MySQL query statement for [**Delete Duplicate Emails**](https://leetcode.com/problems/delete-duplicate-emails/ "Problem description")
 * Script named [**deleteDuplicateEmails.sql**](https://github.com/xiaeryu/LeetCode/blob/master/deleteDuplicateEmails.sql "script") in this repository
+
+#### Rising Temperature [Number 197] at _2015-05-28_
+* MySQL query statement for [**Rising Temperature**](https://leetcode.com/problems/rising-temperature/ "Problem description")
+* Script named [**risingTemperature.sql**](https://github.com/xiaeryu/LeetCode/blob/master/risingTemperature.sql "script") in this repository
