@@ -119,5 +119,10 @@ A try for the LeetCode problems.
 * Python script for [**Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/ "Problem description")
 * Script named [**numberOf1Bits.py**](https://github.com/xiaeryu/LeetCode/blob/master/numberOf1Bits.py "script") in this repository
 
+#### Reverse Bits (Number 190) at _2015-05-29_
+* Python script for [**Reverse Bits**](https://leetcode.com/problems/reverse-bits/ "Problem description")
+* Script named [**reverseBits.py**](https://github.com/xiaeryu/LeetCode/blob/master/reverseBits.py "script") in this repository
 
-
+#### Rotate Array (Number 189) at _2015-05-29_
+* Python script for [**Rotate Array**](https://leetcode.com/problems/rotate-array/ "Problem description")
+* Script named [**rotateArray.py**](https://github.com/xiaeryu/LeetCode/blob/master/rotateArray.py "script") in this repository
