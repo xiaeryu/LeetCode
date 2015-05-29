@@ -113,11 +113,11 @@ A try for the LeetCode problems.
  
 #### House Robber (Number 198) at _2015-05-29_
 * Python script for [**House Robber**](https://leetcode.com/problems/house-robber/ "Problem description")
-* Script named [houseRobber.py](https://github.com/xiaeryu/LeetCode/blob/master/houseRobber.py "script") in this repository
+* Script named [**houseRobber.py**](https://github.com/xiaeryu/LeetCode/blob/master/houseRobber.py "script") in this repository
 
 #### Number of 1 Bits (Number 191) at _2015-05-29_
 * Python script for [**Number of 1 Bits**](https://leetcode.com/problems/number-of-1-bits/ "Problem description")
-* Script named [""numberOf1Bits.py""](https://github.com/xiaeryu/LeetCode/blob/master/numberOf1Bits.py "script") in this repository
+* Script named [**numberOf1Bits.py**](https://github.com/xiaeryu/LeetCode/blob/master/numberOf1Bits.py "script") in this repository
 
 
 
