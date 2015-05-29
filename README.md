@@ -110,4 +110,10 @@ A try for the LeetCode problems.
 #### Happy Number (Number 202) at _2015-05-29_
 * Python script for [**Happy Number**](https://leetcode.com/problems/contains-duplicate/ "Problem description")
 * Script named [**happyNumber.py**](https://github.com/xiaeryu/LeetCode/blob/master/happyNumber.py "script") in this repository
+ 
+#### House Robber (Number 198) at _2015-05-29_
+* Python script for [**House Robber**](https://leetcode.com/problems/house-robber/ "Problem description")
+* Script named [houseRobber.py](https://github.com/xiaeryu/LeetCode/blob/master/houseRobber.py "script") in this repository
+
+
 
