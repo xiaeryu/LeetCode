@@ -106,3 +106,8 @@ A try for the LeetCode problems.
 #### Department Top Three Salaries (Number 185) at _2015-05-28_
 * MySQL query statement for [**Department Top Three Salaries**](https://leetcode.com/problems/department-top-three-salaries/ "Problem description")
 * Script named [**departmentTopThreeSalaries.sql**](https://github.com/xiaeryu/LeetCode/blob/master/departmentTopThreeSalaries.sql "script") in this repository
+
+#### Happy Number (Number 202) at _2015-05-29_
+* Python script for [**Happy Number**](https://leetcode.com/problems/contains-duplicate/ "Problem description")
+* Script named [**happyNumber.py**](https://github.com/xiaeryu/LeetCode/blob/master/happyNumber.py "script") in this repository
+
