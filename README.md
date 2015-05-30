@@ -1,7 +1,10 @@
 LeetCode
 ===============================
 
-A try for the LeetCode problems.
+| **Problem Number** | **Problem Description** | **Solution** | **Language** |**Date**|
+|:------------------:|:-----------------------:|:------------:|:-------------:|:---:|
+|**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
+
 
 #### Find Minimum in Rotated Sorted Array at _2015-05-23_
 * A devide-and-conquer solution for the minimum rotated sorted array problem
