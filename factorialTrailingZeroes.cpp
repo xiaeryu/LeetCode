@@ -1,9 +1,11 @@
+/*
 #########################################################################
 ## LeetCode Number 172 Factorial Trailing Zeroes 
 ## Problem description can be found here:
 ## https://leetcode.com/problems/factorial-trailing-zeroes/
 ## C++ script
 #########################################################################
+*/
 
 class Solution {
 public:
