@@ -7,19 +7,13 @@ LeetCode
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**168**|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[excelSheetColumnTitle.cpp](https://github.com/xiaeryu/LeetCode/blob/master/excelSheetColumnTitle.cpp)|C++|2015-05-31|
 |**172**|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[factorialTrailingZeroes.cpp](https://github.com/xiaeryu/LeetCode/blob/master/factorialTrailingZeroes.cpp)|C++|2015-05-30|
+|**192**|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[wordFrequency.sh](https://github.com/xiaeryu/LeetCode/blob/master/wordFrequency.sh)|shell|2015-05-25|
+|**193**|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[validPhoneNumbers.sh](https://github.com/xiaeryu/LeetCode/blob/master/validPhoneNumbers.sh)|shell|2015-05-25|
 
 
 #### Find Minimum in Rotated Sorted Array at _2015-05-23_
 * A devide-and-conquer solution for the minimum rotated sorted array problem
 * Script named [**rotatedSortedArray.py**](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py "script") in this repository
-
-#### Word Frequency (Number 192) at _2015-05-25_
-* One-line solution to the [**Word Frequency problem**](https://leetcode.com/problems/word-frequency/ "Problem description")
-* Script named [**wordFrequency.sh**](https://github.com/xiaeryu/LeetCode/blob/master/wordFrequency.sh "script") in this repository
-
-#### Valid Phone Numbers (Number 193) at _2015-05-25_
-* One-line solution to the [**Valid Phone Numbers**](https://leetcode.com/problems/valid-phone-numbers/ "Problem description")
-* Script named [**validPhoneNumbers.sh**](https://github.com/xiaeryu/LeetCode/blob/master/validPhoneNumbers.sh "script") in this repository
 
 #### Transpose File (Number 194) at _2015-05-25_
 * One-line solution to the [**Transpose File**](https://leetcode.com/problems/transpose-file/ "Problem description")
