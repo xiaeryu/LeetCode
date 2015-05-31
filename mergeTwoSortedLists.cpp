@@ -1,9 +1,11 @@
+/*
 #########################################################################
 ## LeetCode Number 21 Merge Two Sorted Lists
 ## Problem description can be found here:
 ## https://leetcode.com/problems/merge-two-sorted-lists/
 ## C++ script
 #########################################################################
+*/
 
 /**
  * Definition for singly-linked list.
