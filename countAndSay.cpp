@@ -1,9 +1,11 @@
+/*
 #########################################################################
 ## LeetCode Number 70 Count and Say
 ## Problem description can be found here:
 ## https://leetcode.com/problems/count-and-say/
 ## C++ script
 #########################################################################
+*/
 
 class Solution {
 public:
