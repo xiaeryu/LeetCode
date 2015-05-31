@@ -3,6 +3,7 @@ LeetCode
 
 | **Problem Number** | **Problem Description** | **Solution** | **Language** |**Date**|
 |:------------------:|:-----------------------:|:------------:|:-------------:|:---:|
+|**21**|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoSortedLists.cpp](https://github.com/xiaeryu/LeetCode/blob/master/mergeTwoSortedLists.cpp)|C++|2015-05-31|
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**172**|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[factorialTrailingZeroes.cpp](https://github.com/xiaeryu/LeetCode/blob/master/factorialTrailingZeroes.cpp)|C++|2015-05-30|
 
