@@ -1,4 +1,3 @@
-
 #########################################################################
 ## LeetCode Number 26 Remove Duplicates from Sorted Array
 ## Problem description can be found here:
