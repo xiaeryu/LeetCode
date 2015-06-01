@@ -16,6 +16,7 @@ LeetCode
 |**193**|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[validPhoneNumbers.sh](https://github.com/xiaeryu/LeetCode/blob/master/validPhoneNumbers.sh)|shell|2015-05-25|
 |**194**|[Transpose File](https://leetcode.com/problems/transpose-file/)|[transposeFile.sh](https://github.com/xiaeryu/LeetCode/blob/master/transposeFile.sh "script")|shell|2015-05-25|
 |**195**|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[tenthLine.sh](https://github.com/xiaeryu/LeetCode/blob/master/tenthLine.sh "script")|shell|2015-05-25|
+|**217**|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicate.py)|Python|2015-05-25|
 
 
 #### Find Minimum in Rotated Sorted Array at _2015-05-23_
@@ -34,9 +35,7 @@ LeetCode
 * MySQL query statement to the [**Nth Highest Salary**](https://leetcode.com/problems/nth-highest-salary/ "Problem description")
 * Script named [**nthHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/nthHighestSalary.sql "script") in this repository
 
-#### Contains Duplicate (Number 217) at _2015-05-25_
-* Python solution with the use of dictionary [**Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/ "Problem description")
-* Script named [**containsDuplicate.py**](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicate.py, "script") in this repository
+
 
 #### Sort Colors (Number 75) at _2015-05-25_
 * Python solution with counting sort [**Sort Colors**](https://leetcode.com/problems/sort-colors/ "Problem description")
