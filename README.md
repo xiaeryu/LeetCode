@@ -8,6 +8,8 @@ LeetCode
 |**26**|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/xiaeryu/LeetCode/blob/master/removeDuplicates.py)|Python|2015-06-01|
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
+|**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
+|**165**|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[compareVersionNumbers.py](https://github.com/xiaeryu/LeetCode/blob/master/compareVersionNumbers.py)|Python|2015-06-01|
 |**168**|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[excelSheetColumnTitle.cpp](https://github.com/xiaeryu/LeetCode/blob/master/excelSheetColumnTitle.cpp)|C++|2015-05-31|
 |**172**|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[factorialTrailingZeroes.cpp](https://github.com/xiaeryu/LeetCode/blob/master/factorialTrailingZeroes.cpp)|C++|2015-05-30|
 |**192**|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[wordFrequency.sh](https://github.com/xiaeryu/LeetCode/blob/master/wordFrequency.sh)|shell|2015-05-25|
