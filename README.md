@@ -3,10 +3,13 @@ LeetCode
 
 | **Number** | **Problem Description** | **Solution** | **Language** |**Date**|
 |:------------------:|:-----------------------:|:------------:|:-------------:|:---:|
+|**1**|[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.py](https://github.com/xiaeryu/LeetCode/blob/master/twoSum.py)|Python|2015-06-02|
 |**8**|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[stringToInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/stringToInteger.py)|Python|2015-06-01|
 |**21**|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoSortedLists.cpp](https://github.com/xiaeryu/LeetCode/blob/master/mergeTwoSortedLists.cpp)|C++|2015-05-31|
 |**26**|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/xiaeryu/LeetCode/blob/master/removeDuplicates.py)|Python|2015-06-01|
+|**27**|[Remove Element](https://leetcode.com/problems/remove-element/)|[removeElement.py](https://github.com/xiaeryu/LeetCode/blob/master/removeElement.py)|Python|2015-06-02|
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
+|**58**|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](https://github.com/xiaeryu/LeetCode/blob/master/lengthOfLastWord.py)|Python|2015-06-02|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
 |**165**|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[compareVersionNumbers.py](https://github.com/xiaeryu/LeetCode/blob/master/compareVersionNumbers.py)|Python|2015-06-01|
@@ -16,7 +19,9 @@ LeetCode
 |**193**|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[validPhoneNumbers.sh](https://github.com/xiaeryu/LeetCode/blob/master/validPhoneNumbers.sh)|shell|2015-05-25|
 |**194**|[Transpose File](https://leetcode.com/problems/transpose-file/)|[transposeFile.sh](https://github.com/xiaeryu/LeetCode/blob/master/transposeFile.sh "script")|shell|2015-05-25|
 |**195**|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[tenthLine.sh](https://github.com/xiaeryu/LeetCode/blob/master/tenthLine.sh "script")|shell|2015-05-25|
+|**215**|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[kthLargestElement.py](https://github.com/xiaeryu/LeetCode/blob/master/kthLargestElement.py)|Python|2015-06-02|
 |**217**|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicate.py)|Python|2015-05-25|
+|**219**|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[containsDuplicateII.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicateII.py)|Python|2015-06-02|
 
 
 #### Find Minimum in Rotated Sorted Array at _2015-05-23_
