@@ -10,6 +10,7 @@ LeetCode
 |**27**|[Remove Element](https://leetcode.com/problems/remove-element/)|[removeElement.py](https://github.com/xiaeryu/LeetCode/blob/master/removeElement.py)|Python|2015-06-02|
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**58**|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](https://github.com/xiaeryu/LeetCode/blob/master/lengthOfLastWord.py)|Python|2015-06-02|
+|**70**|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbingStairs.py](https://github.com/xiaeryu/LeetCode/blob/master/climbingStairs.py)|Python|2015-05-27|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
 |**165**|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[compareVersionNumbers.py](https://github.com/xiaeryu/LeetCode/blob/master/compareVersionNumbers.py)|Python|2015-06-01|
@@ -18,6 +19,7 @@ LeetCode
 |**175**|[Combine Two Table](https://leetcode.com/problems/combine-two-tables/)|[combineTwoTables.sql](https://github.com/xiaeryu/LeetCode/blob/master/combineTwoTables.sql)|MySQL|2015-05-25|
 |**176**|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[secondHighestSalary.sql](https://github.com/xiaeryu/LeetCode/blob/master/secondHighestSalary.sql)|MySQL|2015-05-25|
 |**177**|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[nthHighestSalary.sql](https://github.com/xiaeryu/LeetCode/blob/master/nthHighestSalary.sql)|MySQL|2015-05-25|
+|**189**|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[rotateArray.py](https://github.com/xiaeryu/LeetCode/blob/master/rotateArray.py)|Python|2015-05-29|
 |**192**|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[wordFrequency.sh](https://github.com/xiaeryu/LeetCode/blob/master/wordFrequency.sh)|shell|2015-05-25|
 |**193**|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[validPhoneNumbers.sh](https://github.com/xiaeryu/LeetCode/blob/master/validPhoneNumbers.sh)|shell|2015-05-25|
 |**194**|[Transpose File](https://leetcode.com/problems/transpose-file/)|[transposeFile.sh](https://github.com/xiaeryu/LeetCode/blob/master/transposeFile.sh "script")|shell|2015-05-25|
@@ -62,10 +64,6 @@ LeetCode
 #### Reverse Words in a String (Number 151) at _2015-05-27_
 * Python script for [**Reverse Words in a String**](https://leetcode.com/problems/reverse-words-in-a-string/ "Problem description")
 * Script named [**reverseWordsinaString.py**](https://github.com/xiaeryu/LeetCode/blob/master/reverseWordsinaString.py "script") in this repository
-
-#### Climbing Stairs (Number 70) at _2015-05-27_
-* Python script for [**Climbing Stairs**](https://leetcode.com/problems/climbing-stairs/ "Problem description")
-* Script named [**climbingStairs.py**](https://github.com/xiaeryu/LeetCode/blob/master/climbingStairs.py "script") in this repository
 
 #### Search Insert Position (Number 35) at _2015-05-27_
 * Python script for [**Search Insert Position**](https://leetcode.com/problems/search-insert-position/ "Problem description")
@@ -115,6 +113,3 @@ LeetCode
 * Python script for [**Reverse Bits**](https://leetcode.com/problems/reverse-bits/ "Problem description")
 * Script named [**reverseBits.py**](https://github.com/xiaeryu/LeetCode/blob/master/reverseBits.py "script") in this repository
 
-#### Rotate Array (Number 189) at _2015-05-29_
-* Python script for [**Rotate Array**](https://leetcode.com/problems/rotate-array/ "Problem description")
-* Script named [**rotateArray.py**](https://github.com/xiaeryu/LeetCode/blob/master/rotateArray.py "script") in this repository
