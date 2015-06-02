@@ -15,6 +15,9 @@ LeetCode
 |**165**|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[compareVersionNumbers.py](https://github.com/xiaeryu/LeetCode/blob/master/compareVersionNumbers.py)|Python|2015-06-01|
 |**168**|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[excelSheetColumnTitle.cpp](https://github.com/xiaeryu/LeetCode/blob/master/excelSheetColumnTitle.cpp)|C++|2015-05-31|
 |**172**|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[factorialTrailingZeroes.cpp](https://github.com/xiaeryu/LeetCode/blob/master/factorialTrailingZeroes.cpp)|C++|2015-05-30|
+|**175**|[Combine Two Table](https://leetcode.com/problems/combine-two-tables/)|[combineTwoTables.sql](https://github.com/xiaeryu/LeetCode/blob/master/combineTwoTables.sql)|MySQL|2015-05-25|
+|**176**|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[secondHighestSalary.sql](https://github.com/xiaeryu/LeetCode/blob/master/secondHighestSalary.sql)|MySQL|2015-05-25|
+|**177**|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[nthHighestSalary.sql](https://github.com/xiaeryu/LeetCode/blob/master/nthHighestSalary.sql)|MySQL|2015-05-25|
 |**192**|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[wordFrequency.sh](https://github.com/xiaeryu/LeetCode/blob/master/wordFrequency.sh)|shell|2015-05-25|
 |**193**|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[validPhoneNumbers.sh](https://github.com/xiaeryu/LeetCode/blob/master/validPhoneNumbers.sh)|shell|2015-05-25|
 |**194**|[Transpose File](https://leetcode.com/problems/transpose-file/)|[transposeFile.sh](https://github.com/xiaeryu/LeetCode/blob/master/transposeFile.sh "script")|shell|2015-05-25|
@@ -27,20 +30,6 @@ LeetCode
 #### Find Minimum in Rotated Sorted Array at _2015-05-23_
 * A devide-and-conquer solution for the minimum rotated sorted array problem
 * Script named [**rotatedSortedArray.py**](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py "script") in this repository
-
-#### Combine Two Tables (Number 175) at _2015-05-25_
-* MySQL query statement  to the [**Combine Two Table**](https://leetcode.com/problems/combine-two-tables/ "Problem description")
-* Script named [**combineTwoTables.sql**](https://github.com/xiaeryu/LeetCode/blob/master/combineTwoTables.sql "script") in this repository
-
-#### Second Highest Salary (Number 176) at _2015-05-25_
-* MySQL query statement to the [**Second Highest Salary**](https://leetcode.com/problems/second-highest-salary/ "Problem description")
-* Script named [**secondHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/secondHighestSalary.sql "script") in this repository
-
-#### Nth Highest Salary (Number 177) at _2015-05-25_
-* MySQL query statement to the [**Nth Highest Salary**](https://leetcode.com/problems/nth-highest-salary/ "Problem description")
-* Script named [**nthHighestSalary.sql**](https://github.com/xiaeryu/LeetCode/blob/master/nthHighestSalary.sql "script") in this repository
-
-
 
 #### Sort Colors (Number 75) at _2015-05-25_
 * Python solution with counting sort [**Sort Colors**](https://leetcode.com/problems/sort-colors/ "Problem description")
