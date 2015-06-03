@@ -5,6 +5,8 @@ LeetCode
 |:------------------:|:-----------------------:|:------------:|:-------------:|:---:|
 |**1**|[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.py](https://github.com/xiaeryu/LeetCode/blob/master/twoSum.py)|Python|2015-06-02|
 |**8**|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[stringToInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/stringToInteger.py)|Python|2015-06-01|
+|**14**|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[longestCommonPrefix.py](https://github.com/xiaeryu/LeetCode/blob/master/longestCommonPrefix.py)|Python|2015-06-03|
+|**20**|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[validParentheses.py](https://github.com/xiaeryu/LeetCode/blob/master/validParentheses.py)|Python|2015-06-03|
 |**21**|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoSortedLists.cpp](https://github.com/xiaeryu/LeetCode/blob/master/mergeTwoSortedLists.cpp)|C++|2015-05-31|
 |**26**|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/xiaeryu/LeetCode/blob/master/removeDuplicates.py)|Python|2015-06-01|
 |**27**|[Remove Element](https://leetcode.com/problems/remove-element/)|[removeElement.py](https://github.com/xiaeryu/LeetCode/blob/master/removeElement.py)|Python|2015-06-02|
@@ -12,6 +14,7 @@ LeetCode
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**53**|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximumSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumSubarray.py)|Python|2015-05-27|
 |**58**|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](https://github.com/xiaeryu/LeetCode/blob/master/lengthOfLastWord.py)|Python|2015-06-02|
+|**66**|[Plus One](https://leetcode.com/problems/plus-one/)|[plusOne.py](https://github.com/xiaeryu/LeetCode/blob/master/plusOne.py)|Python|2015-06-03|
 |**70**|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbingStairs.py](https://github.com/xiaeryu/LeetCode/blob/master/climbingStairs.py)|Python|2015-05-27|
 |**75**|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sortColors.py](https://github.com/xiaeryu/LeetCode/blob/master/sortColors.py)|Python|2015-05-25|
 |**88**|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[mergeSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py)|Python|2015-05-26|
@@ -22,6 +25,7 @@ LeetCode
 |**165**|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[compareVersionNumbers.py](https://github.com/xiaeryu/LeetCode/blob/master/compareVersionNumbers.py)|Python|2015-06-01|
 |**168**|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[excelSheetColumnTitle.cpp](https://github.com/xiaeryu/LeetCode/blob/master/excelSheetColumnTitle.cpp)|C++|2015-05-31|
 |**169**|[Majority Element](https://leetcode.com/problems/majority-element/)|[majorityElement.py](https://github.com/xiaeryu/LeetCode/blob/master/majorityElement.py)|Python|2015-05-26|
+|**171**|[Excel Sheet Column Number](https://leetcode.com/problems/climbing-stairs/)|[excelSheetColumnNumber.cpp](https://github.com/xiaeryu/LeetCode/blob/master/excelSheetColumnNumber.cpp)|C++|2015-06-13|
 |**172**|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/)|[factorialTrailingZeroes.cpp](https://github.com/xiaeryu/LeetCode/blob/master/factorialTrailingZeroes.cpp)|C++|2015-05-30|
 |**175**|[Combine Two Table](https://leetcode.com/problems/combine-two-tables/)|[combineTwoTables.sql](https://github.com/xiaeryu/LeetCode/blob/master/combineTwoTables.sql)|MySQL|2015-05-25|
 |**176**|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[secondHighestSalary.sql](https://github.com/xiaeryu/LeetCode/blob/master/secondHighestSalary.sql)|MySQL|2015-05-25|
@@ -45,6 +49,7 @@ LeetCode
 |**197**|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[risingTemperature.sql](https://github.com/xiaeryu/LeetCode/blob/master/risingTemperature.sql)|MySQL|2015-05-28|
 |**198**|[House Robber](https://leetcode.com/problems/house-robber/)|[houseRobber.py](https://github.com/xiaeryu/LeetCode/blob/master/houseRobber.py)|Python|2015-05-29|
 |**202**|[Happy Number](https://leetcode.com/problems/contains-duplicate/)|[happyNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/happyNumber.py)|Python|2015-05-29|
+|**205**|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[isomorphicStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/isomorphicStrings.py)|Python|2015-06-03|
 |**215**|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[kthLargestElement.py](https://github.com/xiaeryu/LeetCode/blob/master/kthLargestElement.py)|Python|2015-06-02|
 |**217**|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicate.py)|Python|2015-05-25|
 |**219**|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[containsDuplicateII.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicateII.py)|Python|2015-06-02|
