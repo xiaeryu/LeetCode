@@ -5,11 +5,13 @@ LeetCode
 |:------------------:|:-----------------------:|:------------:|:-------------:|:---:|
 |**1**|[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.py](https://github.com/xiaeryu/LeetCode/blob/master/twoSum.py)|Python|2015-06-02|
 |**8**|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[stringToInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/stringToInteger.py)|Python|2015-06-01|
+|**9**|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[palindromeNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/palindromeNumber.py)|Python|2015-06-04|
 |**14**|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[longestCommonPrefix.py](https://github.com/xiaeryu/LeetCode/blob/master/longestCommonPrefix.py)|Python|2015-06-03|
 |**20**|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[validParentheses.py](https://github.com/xiaeryu/LeetCode/blob/master/validParentheses.py)|Python|2015-06-03|
 |**21**|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoSortedLists.cpp](https://github.com/xiaeryu/LeetCode/blob/master/mergeTwoSortedLists.cpp)|C++|2015-05-31|
 |**26**|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/xiaeryu/LeetCode/blob/master/removeDuplicates.py)|Python|2015-06-01|
 |**27**|[Remove Element](https://leetcode.com/problems/remove-element/)|[removeElement.py](https://github.com/xiaeryu/LeetCode/blob/master/removeElement.py)|Python|2015-06-02|
+|**28**|[Implement strStr](https://leetcode.com/problems/implement-strstr/)|[implementStrStr.py](https://github.com/xiaeryu/LeetCode/blob/master/implementStrStr.py)|Python|2015-06-04|
 |**35**|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[searchInsertPosition.py](https://github.com/xiaeryu/LeetCode/blob/master/searchInsertPosition.py)|Python|2015-05-27|
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**53**|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximumSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumSubarray.py)|Python|2015-05-27|
@@ -17,11 +19,14 @@ LeetCode
 |**66**|[Plus One](https://leetcode.com/problems/plus-one/)|[plusOne.py](https://github.com/xiaeryu/LeetCode/blob/master/plusOne.py)|Python|2015-06-03|
 |**70**|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbingStairs.py](https://github.com/xiaeryu/LeetCode/blob/master/climbingStairs.py)|Python|2015-05-27|
 |**75**|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sortColors.py](https://github.com/xiaeryu/LeetCode/blob/master/sortColors.py)|Python|2015-05-25|
+|**83**|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[remDupFromSortedL.cpp](https://github.com/xiaeryu/LeetCode/blob/master/remDupFromSortedL.cpp)|C++|2015-06-04|
 |**88**|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[mergeSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py)|Python|2015-05-26|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
+|**125**|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[validPalindrome.cpp](https://github.com/xiaeryu/LeetCode/blob/master/validPalindrome.cpp)|C++|2015-06-04|
 |**151**|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverseWordsinaString.py](https://github.com/xiaeryu/LeetCode/blob/master/reverseWordsinaString.py)|Python|2015-05-27|
 |**153**|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[rotatedSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py)|Python|2015-05-23|
+|**162**|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[findPeakElement.py](https://github.com/xiaeryu/LeetCode/blob/master/findPeakElement.py)|Python|2015-06-04|
 |**165**|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[compareVersionNumbers.py](https://github.com/xiaeryu/LeetCode/blob/master/compareVersionNumbers.py)|Python|2015-06-01|
 |**168**|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[excelSheetColumnTitle.cpp](https://github.com/xiaeryu/LeetCode/blob/master/excelSheetColumnTitle.cpp)|C++|2015-05-31|
 |**169**|[Majority Element](https://leetcode.com/problems/majority-element/)|[majorityElement.py](https://github.com/xiaeryu/LeetCode/blob/master/majorityElement.py)|Python|2015-05-26|
