@@ -1,9 +1,11 @@
+/*
 #########################################################################
 ## LeetCode Number 83 Remove Duplicates from Sorted List 
 ## Problem description can be found here:
 ## https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 ## C++ script
 #########################################################################
+*/
 
 /**
  * Definition for singly-linked list.
