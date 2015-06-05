@@ -1,9 +1,11 @@
+/*
 #########################################################################
 ## LeetCode Number 136 Single Number 
 ## Problem description can be found here:
 ## https://leetcode.com/problems/single-number/
-## Python script
+## C++ script
 #########################################################################
+*/
 
 class Solution {
 public:
