@@ -4,6 +4,7 @@ LeetCode
 | **Number** | **Problem Description** | **Solution** | **Language** |**Date**|
 |:------------------:|:-----------------------:|:------------:|:-------------:|:---:|
 |**1**|[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.py](https://github.com/xiaeryu/LeetCode/blob/master/twoSum.py)|Python|2015-06-02|
+|**3**|[Longest Substr w/o Rep Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[longestSubstrWoRepChar.py](https://github.com/xiaeryu/LeetCode/blob/master/longestSubstrWoRepChar.py)|Python|2015-06-05|
 |**8**|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[stringToInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/stringToInteger.py)|Python|2015-06-01|
 |**9**|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[palindromeNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/palindromeNumber.py)|Python|2015-06-04|
 |**14**|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[longestCommonPrefix.py](https://github.com/xiaeryu/LeetCode/blob/master/longestCommonPrefix.py)|Python|2015-06-03|
