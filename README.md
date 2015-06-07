@@ -19,7 +19,9 @@ LeetCode
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**43**|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiplyStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/multiplyStrings.py)|Python|2015-06-06|
 |**53**|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximumSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumSubarray.py)|Python|2015-05-27|
+|**55**|[Jump Game](https://leetcode.com/problems/jump-game/)|[jumpGame.py](https://github.com/xiaeryu/LeetCode/blob/master/jumpGame.py)|Python|2015-06-07|
 |**58**|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](https://github.com/xiaeryu/LeetCode/blob/master/lengthOfLastWord.py)|Python|2015-06-02|
+|**62**|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[uniquePaths.cpp](https://github.com/xiaeryu/LeetCode/blob/master/uniquePaths.cpp)|C++|2015-06-07|
 |**66**|[Plus One](https://leetcode.com/problems/plus-one/)|[plusOne.py](https://github.com/xiaeryu/LeetCode/blob/master/plusOne.py)|Python|2015-06-03|
 |**70**|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbingStairs.py](https://github.com/xiaeryu/LeetCode/blob/master/climbingStairs.py)|Python|2015-05-27|
 |**74**|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[search2DMatrix.py](https://github.com/xiaeryu/LeetCode/blob/master/search2DMatrix.py)|Python|2015-06-06|
