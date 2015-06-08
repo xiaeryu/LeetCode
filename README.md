@@ -18,6 +18,7 @@ LeetCode
 |**35**|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[searchInsertPosition.py](https://github.com/xiaeryu/LeetCode/blob/master/searchInsertPosition.py)|Python|2015-05-27|
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**43**|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiplyStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/multiplyStrings.py)|Python|2015-06-06|
+|**50**|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[pow.cpp](https://github.com/xiaeryu/LeetCode/blob/master/pow.cpp)|C++|2015-06-08|
 |**53**|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximumSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumSubarray.py)|Python|2015-05-27|
 |**55**|[Jump Game](https://leetcode.com/problems/jump-game/)|[jumpGame.py](https://github.com/xiaeryu/LeetCode/blob/master/jumpGame.py)|Python|2015-06-07|
 |**58**|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](https://github.com/xiaeryu/LeetCode/blob/master/lengthOfLastWord.py)|Python|2015-06-02|
@@ -31,6 +32,7 @@ LeetCode
 |**83**|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[remDupFromSortedL.cpp](https://github.com/xiaeryu/LeetCode/blob/master/remDupFromSortedL.cpp)|C++|2015-06-04|
 |**88**|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[mergeSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py)|Python|2015-05-26|
 |**90**|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[subsetsII.py](https://github.com/xiaeryu/LeetCode/blob/master/subsetsII.py)|Python|2015-06-06|
+|**91**|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[decodeWays.py](https://github.com/xiaeryu/LeetCode/blob/master/decodeWays.py)|Python|2015-06-08|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
 |**125**|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[validPalindrome.cpp](https://github.com/xiaeryu/LeetCode/blob/master/validPalindrome.cpp)|C++|2015-06-04|
