@@ -1,5 +1,6 @@
 LeetCode
 ===============================
+Everything will be alright! :octocat:
 
 | **Number** | **Problem Description** | **Solution** | **Language** |**Date**|
 |:------------------:|:-----------------------:|:------------:|:-------------:|:---:|
