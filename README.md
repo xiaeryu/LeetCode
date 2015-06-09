@@ -62,7 +62,7 @@ Everything will be alright! :octocat:
 |**191**|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[numberOf1Bits.py](https://github.com/xiaeryu/LeetCode/blob/master/numberOf1Bits.py)|Python|2015-05-29|
 |**192**|[Word Frequency](https://leetcode.com/problems/word-frequency/)|[wordFrequency.sh](https://github.com/xiaeryu/LeetCode/blob/master/wordFrequency.sh)|shell|2015-05-25|
 |**193**|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)|[validPhoneNumbers.sh](https://github.com/xiaeryu/LeetCode/blob/master/validPhoneNumbers.sh)|shell|2015-05-25|
-|**194**|[Transpose File](https://leetcode.com/problems/transpose-file/)|[transposeFile.sh](https://github.com/xiaeryu/LeetCode/blob/master/transposeFile.sh "script")|shell|2015-05-25|
+|**194**|[Transpose File](https://leetcode.com/problems/transpose-file/)|[transposeFile.sh](hhttps://github.com/xiaeryu/LeetCode/blob/master/transposeFile.p.sh "script")|shell|2015-05-25|
 |**195**|[Tenth Line](https://leetcode.com/problems/tenth-line/)|[tenthLine.sh](https://github.com/xiaeryu/LeetCode/blob/master/tenthLine.sh "script")|shell|2015-05-25|
 |**196**|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[deleteDuplicateEmails.sql](https://github.com/xiaeryu/LeetCode/blob/master/deleteDuplicateEmails.sql)|MySQL|2015-05-27|
 |**197**|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[risingTemperature.sql](https://github.com/xiaeryu/LeetCode/blob/master/risingTemperature.sql)|MySQL|2015-05-28|
@@ -70,6 +70,7 @@ Everything will be alright! :octocat:
 |**202**|[Happy Number](https://leetcode.com/problems/contains-duplicate/)|[happyNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/happyNumber.py)|Python|2015-05-29|
 |**205**|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[isomorphicStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/isomorphicStrings.py)|Python|2015-06-03|
 |**209**|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[minSizeSubarraySum.py](https://github.com/xiaeryu/LeetCode/blob/master/minSizeSubarraySum.py)|Python|2015-06-05|
+|**214**|[:question:Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[shortestPalindrome.py](https://github.com/xiaeryu/LeetCode/blob/master/shortestPalindrome.py)|Python|2015-06-09|
 |**215**|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[kthLargestElement.py](https://github.com/xiaeryu/LeetCode/blob/master/kthLargestElement.py)|Python|2015-06-02|
 |**217**|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicate.py)|Python|2015-05-25|
 |**219**|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[containsDuplicateII.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicateII.py)|Python|2015-06-02|
