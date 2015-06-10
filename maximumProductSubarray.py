@@ -1,5 +1,5 @@
 #########################################################################
-## LeetCode Number 70 Maximum Product Subarray
+## LeetCode Number 152 Maximum Product Subarray
 ## Problem description can be found here:
 ## https://leetcode.com/problems/maximum-product-subarray/
 ## Python script
