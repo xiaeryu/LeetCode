@@ -53,6 +53,7 @@ Everything will be alright! :octocat:
 |**176**|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[secondHighestSalary.sql](https://github.com/xiaeryu/LeetCode/blob/master/secondHighestSalary.sql)|MySQL|2015-05-25|
 |**177**|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)|[nthHighestSalary.sql](https://github.com/xiaeryu/LeetCode/blob/master/nthHighestSalary.sql)|MySQL|2015-05-25|
 |**178**|[Rank Scores](https://leetcode.com/problems/rank-scores/)|[rankScores.sql](https://github.com/xiaeryu/LeetCode/blob/master/rankScores.sql)|MySQL|2015-05-28|
+|**179**|[:star:Largest Number](https://leetcode.com/problems/largest-number/)|[largestNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/largestNumber.py)|Python|2015-06-10|
 |**180**|[Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/)| [consecutiveNumbers.sql](https://github.com/xiaeryu/LeetCode/blob/master/consecutiveNumbers.sql)|MySQL|2015-05-28|
 |**181**|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[employeesEarningMore.sql](https://github.com/xiaeryu/LeetCode/blob/master/employeesEarningMore.sql)|MySQL|2015-05-26|
 |**182**|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[duplicateEmails.sql](https://github.com/xiaeryu/LeetCode/blob/master/duplicateEmails.sql)|MySQL|2015-05-26|
