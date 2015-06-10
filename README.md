@@ -43,6 +43,7 @@ Everything will be alright! :octocat:
 |**151**|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverseWordsinaString.py](https://github.com/xiaeryu/LeetCode/blob/master/reverseWordsinaString.py)|Python|2015-05-27|
 |**153**|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[rotatedSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py)|Python|2015-05-23|
 |**162**|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[findPeakElement.py](https://github.com/xiaeryu/LeetCode/blob/master/findPeakElement.py)|Python|2015-06-04|
+|**164**|[:star:Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[maximumGap.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumGap.py)|Python|2015-06-10|
 |**165**|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[compareVersionNumbers.py](https://github.com/xiaeryu/LeetCode/blob/master/compareVersionNumbers.py)|Python|2015-06-01|
 |**168**|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[excelSheetColumnTitle.cpp](https://github.com/xiaeryu/LeetCode/blob/master/excelSheetColumnTitle.cpp)|C++|2015-05-31|
 |**169**|[Majority Element](https://leetcode.com/problems/majority-element/)|[majorityElement.py](https://github.com/xiaeryu/LeetCode/blob/master/majorityElement.py)|Python|2015-05-26|
@@ -70,6 +71,7 @@ Everything will be alright! :octocat:
 |**197**|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[risingTemperature.sql](https://github.com/xiaeryu/LeetCode/blob/master/risingTemperature.sql)|MySQL|2015-05-28|
 |**198**|[House Robber](https://leetcode.com/problems/house-robber/)|[houseRobber.py](https://github.com/xiaeryu/LeetCode/blob/master/houseRobber.py)|Python|2015-05-29|
 |**202**|[Happy Number](https://leetcode.com/problems/contains-duplicate/)|[happyNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/happyNumber.py)|Python|2015-05-29|
+|**204**|[Count Primes](https://leetcode.com/problems/count-primes/)|[countPrimes.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countPrimes.cpp)|C++|2015-06-10|
 |**205**|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[isomorphicStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/isomorphicStrings.py)|Python|2015-06-03|
 |**209**|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[minSizeSubarraySum.py](https://github.com/xiaeryu/LeetCode/blob/master/minSizeSubarraySum.py)|Python|2015-06-05|
 |**214**|[:star:Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[shortestPalindrome.py](https://github.com/xiaeryu/LeetCode/blob/master/shortestPalindrome.py)|Python|2015-06-09|
