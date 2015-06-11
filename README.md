@@ -40,6 +40,9 @@ Everything will be alright! :octocat:
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
 |**125**|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[validPalindrome.cpp](https://github.com/xiaeryu/LeetCode/blob/master/validPalindrome.cpp)|C++|2015-06-04|
 |**136**|[Single Number](https://leetcode.com/problems/single-number/)|[singleNumber.cpp](https://github.com/xiaeryu/LeetCode/blob/master/singleNumber.cpp)|C++|2015-06-05|
+|**137**|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[singleNumberII.py](https://github.com/xiaeryu/LeetCode/blob/master/singleNumberII.py)|Python|2015-06-11|
+|**139**|[Word Break](https://leetcode.com/problems/word-break/)|[wordBreak.py](https://github.com/xiaeryu/LeetCode/blob/master/wordBreak.py)|Python|2015-06-11|
+|**140**|[:star:Word Break II](https://leetcode.com/problems/word-break-ii/)|[wordBreakII.py](https://github.com/xiaeryu/LeetCode/blob/master/wordBreakII.py)|Python|2015-06-11|
 |**151**|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverseWordsinaString.py](https://github.com/xiaeryu/LeetCode/blob/master/reverseWordsinaString.py)|Python|2015-05-27|
 |**152**|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maximumProductSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumProductSubarray.py)|Python|2015-06-10|
 |**153**|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[rotatedSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py)|Python|2015-05-23|
