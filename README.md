@@ -7,9 +7,11 @@ Everything will be alright! :octocat:
 |**1**|[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.py](https://github.com/xiaeryu/LeetCode/blob/master/twoSum.py)|Python|2015-06-02|
 |**3**|[Longest Substr w/o Rep Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[longestSubstrWoRepChar.py](https://github.com/xiaeryu/LeetCode/blob/master/longestSubstrWoRepChar.py)|Python|2015-06-05|
 |**5**|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[longestPalindromicSubstring.py](https://github.com/xiaeryu/LeetCode/blob/master/longestPalindromicSubstring.py)|Python|2015-06-09|
+|**7**|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[reverseInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/reverseInteger.py)|Python|2015-06-12|
 |**8**|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[stringToInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/stringToInteger.py)|Python|2015-06-01|
 |**9**|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[palindromeNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/palindromeNumber.py)|Python|2015-06-04|
 |**14**|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[longestCommonPrefix.py](https://github.com/xiaeryu/LeetCode/blob/master/longestCommonPrefix.py)|Python|2015-06-03|
+|**17**|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[letterCombPhone.py](https://github.com/xiaeryu/LeetCode/blob/master/letterCombPhone.py)|Python|2015-06-12|
 |**20**|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[validParentheses.py](https://github.com/xiaeryu/LeetCode/blob/master/validParentheses.py)|Python|2015-06-03|
 |**21**|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoSortedLists.cpp](https://github.com/xiaeryu/LeetCode/blob/master/mergeTwoSortedLists.cpp)|C++|2015-05-31|
 |**26**|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/xiaeryu/LeetCode/blob/master/removeDuplicates.py)|Python|2015-06-01|
@@ -36,6 +38,7 @@ Everything will be alright! :octocat:
 |**88**|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[mergeSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py)|Python|2015-05-26|
 |**90**|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[subsetsII.py](https://github.com/xiaeryu/LeetCode/blob/master/subsetsII.py)|Python|2015-06-06|
 |**91**|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[decodeWays.py](https://github.com/xiaeryu/LeetCode/blob/master/decodeWays.py)|Python|2015-06-08|
+|**97**|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[interleavingString.py](https://github.com/xiaeryu/LeetCode/blob/master/interleavingString.py)|Python|2015-06-12|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
 |**125**|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[validPalindrome.cpp](https://github.com/xiaeryu/LeetCode/blob/master/validPalindrome.cpp)|C++|2015-06-04|
