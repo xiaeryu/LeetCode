@@ -33,6 +33,7 @@ Everything will be alright! :octocat:
 |**74**|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[search2DMatrix.py](https://github.com/xiaeryu/LeetCode/blob/master/search2DMatrix.py)|Python|2015-06-06|
 |**75**|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sortColors.py](https://github.com/xiaeryu/LeetCode/blob/master/sortColors.py)|Python|2015-05-25|
 |**78**|[Subsets](https://leetcode.com/problems/subsets/)|[subsets.py](https://github.com/xiaeryu/LeetCode/blob/master/subsets.py)|Python|2015-06-05|
+|**80**|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[rmDupfromSortedArrII.py](https://github.com/xiaeryu/LeetCode/blob/master/rmDupfromSortedArrII.py)|Python|2015-06-13|
 |**81**|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[searchRotSortedArrayII.py](https://github.com/xiaeryu/LeetCode/blob/master/searchRotSortedArrayII.py)|Python|2015-06-06|
 |**83**|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[remDupFromSortedL.cpp](https://github.com/xiaeryu/LeetCode/blob/master/remDupFromSortedL.cpp)|C++|2015-06-04|
 |**88**|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[mergeSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py)|Python|2015-05-26|
@@ -79,6 +80,7 @@ Everything will be alright! :octocat:
 |**197**|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[risingTemperature.sql](https://github.com/xiaeryu/LeetCode/blob/master/risingTemperature.sql)|MySQL|2015-05-28|
 |**198**|[House Robber](https://leetcode.com/problems/house-robber/)|[houseRobber.py](https://github.com/xiaeryu/LeetCode/blob/master/houseRobber.py)|Python|2015-05-29|
 |**202**|[Happy Number](https://leetcode.com/problems/contains-duplicate/)|[happyNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/happyNumber.py)|Python|2015-05-29|
+|**203**|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[rmLinkedListElem.py](https://github.com/xiaeryu/LeetCode/blob/master/rmLinkedListElem.py)|Python|2015-06-13|
 |**204**|[Count Primes](https://leetcode.com/problems/count-primes/)|[countPrimes.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countPrimes.cpp)|C++|2015-06-10|
 |**205**|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[isomorphicStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/isomorphicStrings.py)|Python|2015-06-03|
 |**209**|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[minSizeSubarraySum.py](https://github.com/xiaeryu/LeetCode/blob/master/minSizeSubarraySum.py)|Python|2015-06-05|
@@ -86,3 +88,4 @@ Everything will be alright! :octocat:
 |**215**|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[kthLargestElement.py](https://github.com/xiaeryu/LeetCode/blob/master/kthLargestElement.py)|Python|2015-06-02|
 |**217**|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[containsDuplicate.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicate.py)|Python|2015-05-25|
 |**219**|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[containsDuplicateII.py](https://github.com/xiaeryu/LeetCode/blob/master/containsDuplicateII.py)|Python|2015-06-02|
+|**226**|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[invertBinaryTree.py](https://github.com/xiaeryu/LeetCode/blob/master/invertBinaryTree.py)|Python|2015-06-13|
