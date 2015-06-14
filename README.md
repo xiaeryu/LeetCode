@@ -5,6 +5,7 @@ Everything will be alright! :octocat:
 | **Number** | **Problem Description** | **Solution** | **Language** |**Date**|
 |:------------------:|:-----------------------:|:------------:|:-------------:|:---:|
 |**1**|[Two Sum](https://leetcode.com/problems/two-sum/)|[twoSum.py](https://github.com/xiaeryu/LeetCode/blob/master/twoSum.py)|Python|2015-06-02|
+|**2**|[:star:Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[addTwoNumbers.py](https://github.com/xiaeryu/LeetCode/blob/master/addTwoNumbers.py)|Python|2015-06-14|
 |**3**|[Longest Substr w/o Rep Chars](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[longestSubstrWoRepChar.py](https://github.com/xiaeryu/LeetCode/blob/master/longestSubstrWoRepChar.py)|Python|2015-06-05|
 |**5**|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[longestPalindromicSubstring.py](https://github.com/xiaeryu/LeetCode/blob/master/longestPalindromicSubstring.py)|Python|2015-06-09|
 |**7**|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[reverseInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/reverseInteger.py)|Python|2015-06-12|
@@ -33,6 +34,7 @@ Everything will be alright! :octocat:
 |**70**|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbingStairs.py](https://github.com/xiaeryu/LeetCode/blob/master/climbingStairs.py)|Python|2015-05-27|
 |**74**|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[search2DMatrix.py](https://github.com/xiaeryu/LeetCode/blob/master/search2DMatrix.py)|Python|2015-06-06|
 |**75**|[Sort Colors](https://leetcode.com/problems/sort-colors/)|[sortColors.py](https://github.com/xiaeryu/LeetCode/blob/master/sortColors.py)|Python|2015-05-25|
+|**77**|[Combinations](https://leetcode.com/problems/combinations/)|[combinations.py](https://github.com/xiaeryu/LeetCode/blob/master/combinations.py)|Python|2015-06-14|
 |**78**|[Subsets](https://leetcode.com/problems/subsets/)|[subsets.py](https://github.com/xiaeryu/LeetCode/blob/master/subsets.py)|Python|2015-06-05|
 |**80**|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[rmDupfromSortedArrII.py](https://github.com/xiaeryu/LeetCode/blob/master/rmDupfromSortedArrII.py)|Python|2015-06-13|
 |**81**|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[searchRotSortedArrayII.py](https://github.com/xiaeryu/LeetCode/blob/master/searchRotSortedArrayII.py)|Python|2015-06-06|
@@ -41,10 +43,12 @@ Everything will be alright! :octocat:
 |**90**|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[subsetsII.py](https://github.com/xiaeryu/LeetCode/blob/master/subsetsII.py)|Python|2015-06-06|
 |**91**|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[decodeWays.py](https://github.com/xiaeryu/LeetCode/blob/master/decodeWays.py)|Python|2015-06-08|
 |**97**|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[interleavingString.py](https://github.com/xiaeryu/LeetCode/blob/master/interleavingString.py)|Python|2015-06-12|
+|**100**|[Same Tree](https://leetcode.com/problems/same-tree/)|[sameTree.py](https://github.com/xiaeryu/LeetCode/blob/master/sameTree.py)|Python|2015-06-14|
 |**104**|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[maxDepthOfBinaryTree.py](https://github.com/xiaeryu/LeetCode/blob/master/maxDepthOfBinaryTree.py)|Python|2015-06-13|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
 |**125**|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[validPalindrome.cpp](https://github.com/xiaeryu/LeetCode/blob/master/validPalindrome.cpp)|C++|2015-06-04|
+|**134**|[Gas Station](https://leetcode.com/problems/gas-station/)|[gasStation.py](https://github.com/xiaeryu/LeetCode/blob/master/gasStation.py)|Python|2015-06-14|
 |**136**|[Single Number](https://leetcode.com/problems/single-number/)|[singleNumber.cpp](https://github.com/xiaeryu/LeetCode/blob/master/singleNumber.cpp)|C++|2015-06-05|
 |**137**|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[singleNumberII.py](https://github.com/xiaeryu/LeetCode/blob/master/singleNumberII.py)|Python|2015-06-11|
 |**139**|[Word Break](https://leetcode.com/problems/word-break/)|[wordBreak.py](https://github.com/xiaeryu/LeetCode/blob/master/wordBreak.py)|Python|2015-06-11|
