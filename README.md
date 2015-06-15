@@ -13,6 +13,7 @@ Everything will be alright! :octocat:
 |**9**|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[palindromeNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/palindromeNumber.py)|Python|2015-06-04|
 |**13**|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[romanToInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/romanToInteger.py)|Python|2015-06-13|
 |**14**|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[longestCommonPrefix.py](https://github.com/xiaeryu/LeetCode/blob/master/longestCommonPrefix.py)|Python|2015-06-03|
+|**15**|[3Sum](https://leetcode.com/problems/3sum/)|[threeSum.py](https://github.com/xiaeryu/LeetCode/blob/master/threeSum.py)|Python|2015-06-15|
 |**17**|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[letterCombPhone.py](https://github.com/xiaeryu/LeetCode/blob/master/letterCombPhone.py)|Python|2015-06-12|
 |**20**|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[validParentheses.py](https://github.com/xiaeryu/LeetCode/blob/master/validParentheses.py)|Python|2015-06-03|
 |**21**|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoSortedLists.cpp](https://github.com/xiaeryu/LeetCode/blob/master/mergeTwoSortedLists.cpp)|C++|2015-05-31|
@@ -23,6 +24,7 @@ Everything will be alright! :octocat:
 |**34**|[Search for a Range](https://leetcode.com/problems/climbing-stairs/)|[searchForaRange.py](https://github.com/xiaeryu/LeetCode/blob/master/searchForaRange.py)|Python|2015-06-05|
 |**35**|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[searchInsertPosition.py](https://github.com/xiaeryu/LeetCode/blob/master/searchInsertPosition.py)|Python|2015-05-27|
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
+|**41**|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[firstMissingPositive.py](https://github.com/xiaeryu/LeetCode/blob/master/firstMissingPositive.py)|Python|2015-06-15|
 |**43**|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiplyStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/multiplyStrings.py)|Python|2015-06-06|
 |**50**|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[pow.cpp](https://github.com/xiaeryu/LeetCode/blob/master/pow.cpp)|C++|2015-06-08|
 |**53**|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximumSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumSubarray.py)|Python|2015-05-27|
@@ -30,6 +32,7 @@ Everything will be alright! :octocat:
 |**58**|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](https://github.com/xiaeryu/LeetCode/blob/master/lengthOfLastWord.py)|Python|2015-06-02|
 |**62**|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[uniquePaths.cpp](https://github.com/xiaeryu/LeetCode/blob/master/uniquePaths.cpp)|C++|2015-06-07|
 |**66**|[Plus One](https://leetcode.com/problems/plus-one/)|[plusOne.py](https://github.com/xiaeryu/LeetCode/blob/master/plusOne.py)|Python|2015-06-03|
+|**67**|[Add Binary](https://leetcode.com/problems/add-binary/)|[addBinary.py](https://github.com/xiaeryu/LeetCode/blob/master/addBinary.py)|Python|2015-06-15|
 |**69**|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrt.cpp](https://github.com/xiaeryu/LeetCode/blob/master/sqrt.cpp)|C++|2015-06-09|
 |**70**|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[climbingStairs.py](https://github.com/xiaeryu/LeetCode/blob/master/climbingStairs.py)|Python|2015-05-27|
 |**74**|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[search2DMatrix.py](https://github.com/xiaeryu/LeetCode/blob/master/search2DMatrix.py)|Python|2015-06-06|
