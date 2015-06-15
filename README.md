@@ -47,6 +47,8 @@ Everything will be alright! :octocat:
 |**104**|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[maxDepthOfBinaryTree.py](https://github.com/xiaeryu/LeetCode/blob/master/maxDepthOfBinaryTree.py)|Python|2015-06-13|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
+|**121**|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[bestTimeStock.py](https://github.com/xiaeryu/LeetCode/blob/master/bestTimeStock.py)|Python|2015-06-15|
+|**122**|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[bestTimeStockII.py](https://github.com/xiaeryu/LeetCode/blob/master/bestTimeStockII.py)|Python|2015-06-15|
 |**125**|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[validPalindrome.cpp](https://github.com/xiaeryu/LeetCode/blob/master/validPalindrome.cpp)|C++|2015-06-04|
 |**134**|[Gas Station](https://leetcode.com/problems/gas-station/)|[gasStation.py](https://github.com/xiaeryu/LeetCode/blob/master/gasStation.py)|Python|2015-06-14|
 |**136**|[Single Number](https://leetcode.com/problems/single-number/)|[singleNumber.cpp](https://github.com/xiaeryu/LeetCode/blob/master/singleNumber.cpp)|C++|2015-06-05|
