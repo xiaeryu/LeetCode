@@ -1,7 +1,7 @@
 #########################################################################
 ## LeetCode Number 199 Binary Tree Right Side View
 ## Problem description can be found here:
-## https://leetcode.com/problems/add-binary/
+## https://leetcode.com/problems/binary-tree-right-side-view/
 ## Python script
 #########################################################################
 
