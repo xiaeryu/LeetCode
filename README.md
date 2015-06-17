@@ -31,6 +31,8 @@ Everything will be alright! :octocat:
 |**55**|[Jump Game](https://leetcode.com/problems/jump-game/)|[jumpGame.py](https://github.com/xiaeryu/LeetCode/blob/master/jumpGame.py)|Python|2015-06-07|
 |**58**|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](https://github.com/xiaeryu/LeetCode/blob/master/lengthOfLastWord.py)|Python|2015-06-02|
 |**62**|[Unique Paths](https://leetcode.com/problems/unique-paths/)|[uniquePaths.cpp](https://github.com/xiaeryu/LeetCode/blob/master/uniquePaths.cpp)|C++|2015-06-07|
+|**63**|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[uniquePathsII.py](https://github.com/xiaeryu/LeetCode/blob/master/uniquePathsII.py)|Python|2015-06-17|
+|**64**|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[minPathSum.py](https://github.com/xiaeryu/LeetCode/blob/master/minPathSum.py)|Python|2015-06-17|
 |**66**|[Plus One](https://leetcode.com/problems/plus-one/)|[plusOne.py](https://github.com/xiaeryu/LeetCode/blob/master/plusOne.py)|Python|2015-06-03|
 |**67**|[Add Binary](https://leetcode.com/problems/add-binary/)|[addBinary.py](https://github.com/xiaeryu/LeetCode/blob/master/addBinary.py)|Python|2015-06-15|
 |**69**|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[sqrt.cpp](https://github.com/xiaeryu/LeetCode/blob/master/sqrt.cpp)|C++|2015-06-09|
@@ -45,6 +47,8 @@ Everything will be alright! :octocat:
 |**88**|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[mergeSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py)|Python|2015-05-26|
 |**90**|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[subsetsII.py](https://github.com/xiaeryu/LeetCode/blob/master/subsetsII.py)|Python|2015-06-06|
 |**91**|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[decodeWays.py](https://github.com/xiaeryu/LeetCode/blob/master/decodeWays.py)|Python|2015-06-08|
+|**94**|[:star:Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binTreeInorderTraversal.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreeInorderTraversal.py)|Python|2015-06-17|
+|**96**|[:star:Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[uniqueBST.py](https://github.com/xiaeryu/LeetCode/blob/master/uniqueBST.py)|Python|2015-06-17|
 |**97**|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[interleavingString.py](https://github.com/xiaeryu/LeetCode/blob/master/interleavingString.py)|Python|2015-06-12|
 |**100**|[Same Tree](https://leetcode.com/problems/same-tree/)|[sameTree.py](https://github.com/xiaeryu/LeetCode/blob/master/sameTree.py)|Python|2015-06-14|
 |**102**|[:star:Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[binTreeLevelOrderT.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreeLevelOrderT.py)|Python|2015-06-16|
@@ -61,6 +65,7 @@ Everything will be alright! :octocat:
 |**137**|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[singleNumberII.py](https://github.com/xiaeryu/LeetCode/blob/master/singleNumberII.py)|Python|2015-06-11|
 |**139**|[Word Break](https://leetcode.com/problems/word-break/)|[wordBreak.py](https://github.com/xiaeryu/LeetCode/blob/master/wordBreak.py)|Python|2015-06-11|
 |**140**|[:star:Word Break II](https://leetcode.com/problems/word-break-ii/)|[wordBreakII.py](https://github.com/xiaeryu/LeetCode/blob/master/wordBreakII.py)|Python|2015-06-11|
+|**144**|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binTreePreorderTraversal.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreePreorderTraversal.py)|Python|2015-06-17|
 |**151**|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverseWordsinaString.py](https://github.com/xiaeryu/LeetCode/blob/master/reverseWordsinaString.py)|Python|2015-05-27|
 |**152**|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maximumProductSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumProductSubarray.py)|Python|2015-06-10|
 |**153**|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[rotatedSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py)|Python|2015-05-23|
