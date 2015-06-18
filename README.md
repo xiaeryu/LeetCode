@@ -56,6 +56,7 @@ Everything will be alright! :octocat:
 |**103**|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[binTreeZigzagLevelT.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreeZigzagLevelT.py)|Python|2015-06-16|
 |**104**|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[maxDepthOfBinaryTree.py](https://github.com/xiaeryu/LeetCode/blob/master/maxDepthOfBinaryTree.py)|Python|2015-06-13|
 |**107**|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[binTreeLevelOrderTII.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreeLevelOrderTII.py)|Python|2015-06-16|
+|**112**|[Path Sum](https://leetcode.com/problems/path-sum/)|[pathSum.py](https://github.com/xiaeryu/LeetCode/blob/master/pathSum.py)|Python|2015-06-18|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
 |**121**|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[bestTimeStock.py](https://github.com/xiaeryu/LeetCode/blob/master/bestTimeStock.py)|Python|2015-06-15|
