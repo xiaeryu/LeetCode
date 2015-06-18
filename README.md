@@ -26,6 +26,7 @@ Everything will be alright! :octocat:
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**41**|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[firstMissingPositive.py](https://github.com/xiaeryu/LeetCode/blob/master/firstMissingPositive.py)|Python|2015-06-15|
 |**43**|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiplyStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/multiplyStrings.py)|Python|2015-06-06|
+|**48**|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[rotateImage.py](https://github.com/xiaeryu/LeetCode/blob/master/rotateImage.py)|Python|2015-06-18|
 |**50**|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[pow.cpp](https://github.com/xiaeryu/LeetCode/blob/master/pow.cpp)|C++|2015-06-08|
 |**53**|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[maximumSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumSubarray.py)|Python|2015-05-27|
 |**55**|[Jump Game](https://leetcode.com/problems/jump-game/)|[jumpGame.py](https://github.com/xiaeryu/LeetCode/blob/master/jumpGame.py)|Python|2015-06-07|
