@@ -11,10 +11,12 @@ Everything will be alright! :octocat:
 |**7**|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[reverseInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/reverseInteger.py)|Python|2015-06-12|
 |**8**|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[stringToInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/stringToInteger.py)|Python|2015-06-01|
 |**9**|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[palindromeNumber.py](https://github.com/xiaeryu/LeetCode/blob/master/palindromeNumber.py)|Python|2015-06-04|
+|**12**|[Integer to Roman](https://leetcode.com/problems/add-binary/)|[integerToRoman.p](https://github.com/xiaeryu/LeetCode/blob/master/integerToRoman.py)|Python|2015-06-20|
 |**13**|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[romanToInteger.py](https://github.com/xiaeryu/LeetCode/blob/master/romanToInteger.py)|Python|2015-06-13|
 |**14**|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[longestCommonPrefix.py](https://github.com/xiaeryu/LeetCode/blob/master/longestCommonPrefix.py)|Python|2015-06-03|
 |**15**|[3Sum](https://leetcode.com/problems/3sum/)|[threeSum.py](https://github.com/xiaeryu/LeetCode/blob/master/threeSum.py)|Python|2015-06-15|
 |**17**|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[letterCombPhone.py](https://github.com/xiaeryu/LeetCode/blob/master/letterCombPhone.py)|Python|2015-06-12|
+|**19**|[Remove Nth Node From End of List](https://leetcode.com/problems/add-binary/)|[rmNNodeEndList.py](https://github.com/xiaeryu/LeetCode/blob/master/rmNNodeEndList.py)|Python|2015-06-20|
 |**20**|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[validParentheses.py](https://github.com/xiaeryu/LeetCode/blob/master/validParentheses.py)|Python|2015-06-03|
 |**21**|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoSortedLists.cpp](https://github.com/xiaeryu/LeetCode/blob/master/mergeTwoSortedLists.cpp)|C++|2015-05-31|
 |**26**|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](https://github.com/xiaeryu/LeetCode/blob/master/removeDuplicates.py)|Python|2015-06-01|
@@ -23,6 +25,7 @@ Everything will be alright! :octocat:
 |**33**|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[searchInRotSortedArr.py](https://github.com/xiaeryu/LeetCode/blob/master/searchInRotSortedArr.py)|Python|2015-06-06|
 |**34**|[Search for a Range](https://leetcode.com/problems/climbing-stairs/)|[searchForaRange.py](https://github.com/xiaeryu/LeetCode/blob/master/searchForaRange.py)|Python|2015-06-05|
 |**35**|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[searchInsertPosition.py](https://github.com/xiaeryu/LeetCode/blob/master/searchInsertPosition.py)|Python|2015-05-27|
+|**36**|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[validSudoku.py](https://github.com/xiaeryu/LeetCode/blob/master/validSudoku.py)|Python|2015-06-20|
 |**38**|[Count and Say](https://leetcode.com/problems/count-and-say/)|[countAndSay.cpp](https://github.com/xiaeryu/LeetCode/blob/master/countAndSay.cpp)|C++|2015-05-30|
 |**41**|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[firstMissingPositive.py](https://github.com/xiaeryu/LeetCode/blob/master/firstMissingPositive.py)|Python|2015-06-15|
 |**43**|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[multiplyStrings.py](https://github.com/xiaeryu/LeetCode/blob/master/multiplyStrings.py)|Python|2015-06-06|
@@ -46,6 +49,7 @@ Everything will be alright! :octocat:
 |**81**|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[searchRotSortedArrayII.py](https://github.com/xiaeryu/LeetCode/blob/master/searchRotSortedArrayII.py)|Python|2015-06-06|
 |**83**|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[remDupFromSortedL.cpp](https://github.com/xiaeryu/LeetCode/blob/master/remDupFromSortedL.cpp)|C++|2015-06-04|
 |**88**|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[mergeSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/mergeSortedArray.py)|Python|2015-05-26|
+|**89**|[Gray Code](https://leetcode.com/problems/gray-code/)|[grayCode.py](https://github.com/xiaeryu/LeetCode/blob/master/grayCode.py)|Python|2015-06-20|
 |**90**|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[subsetsII.py](https://github.com/xiaeryu/LeetCode/blob/master/subsetsII.py)|Python|2015-06-06|
 |**91**|[Decode Ways](https://leetcode.com/problems/decode-ways/)|[decodeWays.py](https://github.com/xiaeryu/LeetCode/blob/master/decodeWays.py)|Python|2015-06-08|
 |**94**|[:star:Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binTreeInorderTraversal.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreeInorderTraversal.py)|Python|2015-06-17|
@@ -59,6 +63,7 @@ Everything will be alright! :octocat:
 |**112**|[Path Sum](https://leetcode.com/problems/path-sum/)|[pathSum.py](https://github.com/xiaeryu/LeetCode/blob/master/pathSum.py)|Python|2015-06-18|
 |**118**|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[pascalsTriangle.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangle.py)|Python|2015-06-01|
 |**119**|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[pascalsTriangleII.py](https://github.com/xiaeryu/LeetCode/blob/master/pascalsTriangleII.py)|Python|2015-06-01|
+|**120**|[:star:Triangle](https://leetcode.com/problems/triangle/)|[triangle.py](https://github.com/xiaeryu/LeetCode/blob/master/triangle.py)|Python|2015-06-20|
 |**121**|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[bestTimeStock.py](https://github.com/xiaeryu/LeetCode/blob/master/bestTimeStock.py)|Python|2015-06-15|
 |**122**|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[bestTimeStockII.py](https://github.com/xiaeryu/LeetCode/blob/master/bestTimeStockII.py)|Python|2015-06-15|
 |**125**|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[validPalindrome.cpp](https://github.com/xiaeryu/LeetCode/blob/master/validPalindrome.cpp)|C++|2015-06-04|
