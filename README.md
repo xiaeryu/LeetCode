@@ -57,6 +57,7 @@ Everything will be alright! :octocat:
 |**94**|[:star:Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[binTreeInorderTraversal.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreeInorderTraversal.py)|Python|2015-06-17|
 |**96**|[:star:Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[uniqueBST.py](https://github.com/xiaeryu/LeetCode/blob/master/uniqueBST.py)|Python|2015-06-17|
 |**97**|[Interleaving String](https://leetcode.com/problems/interleaving-string/)|[interleavingString.py](https://github.com/xiaeryu/LeetCode/blob/master/interleavingString.py)|Python|2015-06-12|
+|**98**|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[validateBST.py](https://github.com/xiaeryu/LeetCode/blob/master/validateBST.py)|Python|2015-06-24|
 |**100**|[Same Tree](https://leetcode.com/problems/same-tree/)|[sameTree.py](https://github.com/xiaeryu/LeetCode/blob/master/sameTree.py)|Python|2015-06-14|
 |**102**|[:star:Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[binTreeLevelOrderT.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreeLevelOrderT.py)|Python|2015-06-16|
 |**103**|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[binTreeZigzagLevelT.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreeZigzagLevelT.py)|Python|2015-06-16|
@@ -74,7 +75,9 @@ Everything will be alright! :octocat:
 |**137**|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[singleNumberII.py](https://github.com/xiaeryu/LeetCode/blob/master/singleNumberII.py)|Python|2015-06-11|
 |**139**|[Word Break](https://leetcode.com/problems/word-break/)|[wordBreak.py](https://github.com/xiaeryu/LeetCode/blob/master/wordBreak.py)|Python|2015-06-11|
 |**140**|[:star:Word Break II](https://leetcode.com/problems/word-break-ii/)|[wordBreakII.py](https://github.com/xiaeryu/LeetCode/blob/master/wordBreakII.py)|Python|2015-06-11|
+|**141**|[:star:Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[linkedListCycle.py](https://github.com/xiaeryu/LeetCode/blob/master/linkedListCycle.py)|Python|2015-06-24|
 |**144**|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[binTreePreorderTraversal.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreePreorderTraversal.py)|Python|2015-06-17|
+|**145**|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[binTreePostorderT.py](https://github.com/xiaeryu/LeetCode/blob/master/binTreePostorderT.py)|Python|2015-06-24|
 |**151**|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[reverseWordsinaString.py](https://github.com/xiaeryu/LeetCode/blob/master/reverseWordsinaString.py)|Python|2015-05-27|
 |**152**|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[maximumProductSubarray.py](https://github.com/xiaeryu/LeetCode/blob/master/maximumProductSubarray.py)|Python|2015-06-10|
 |**153**|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[rotatedSortedArray.py](https://github.com/xiaeryu/LeetCode/blob/master/rotatedSortedArray.py)|Python|2015-05-23|
