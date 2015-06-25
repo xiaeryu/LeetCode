@@ -10,22 +10,30 @@ class Solution:
     # @param {integer[][]} prerequisites
     # @return {boolean}
     def canFinish(self, numCourses, prerequisites):
-        storage = [[] for i in range(numCourses)]
-        visit = [0 for i in range(numCourses)]
-        for pair in prerequisites:
-            storage[pair[0]].append(pair[1])
-        def dfs(i):
-            if visit[i] == -1:
-                return False
-            if visit[i] == 1:
-                return True
-            visit[i] = -1
-            for j in storage[i]:
-                if not dfs(j):
-                    return False
-            visit[i] = 1
+        if numCourses == 0:
             return True
+        storage = [0] * numCourses
+        cat = [[] for i in range(numCourses)]
+        queue = []
+        visited = 0
+
+        for pair in prerequisites:
+            storage[pair[0]] += 1
+            cat[pair[1]].append(pair[0])
+
         for i in range(numCourses):
-            if not dfs(i):
-                return False
-        return True
+            if storage[i] == 0:
+                queue.append(i)
+
+        while len(queue) > 0:
+            get = queue.pop(0)
+            visited += 1
+            storage[get] = -1
+            for item in cat[get]:
+                if storage[item] > 0:
+                    storage[item] -= 1
+                elif storage[item] == -1:
+                    return False
+                if storage[item] == 0:
+                    queue.append(item)
+        return visited==numCourses
